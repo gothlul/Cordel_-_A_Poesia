@@ -1,5 +1,4 @@
-
-
+@import url('recursos/fonts/fonts.css');
 
 
 :root{
@@ -7,6 +6,8 @@
     --cor-00: #000000;
     --cor-00: #000000;
     --cor-00: #000000;
+
+    --font-titulo: 'Landster', Verdana, sans-serif;
 
 }
 
@@ -41,6 +42,7 @@ header{
 header h1{
     padding-top: 50px;
     font-variant: small-caps;
+    font-family: var(--font-titulo);
 }
 
 header p{
