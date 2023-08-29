@@ -130,7 +130,7 @@ section:not(.folha){
 }
 
 section#img-01{
-    background: url('resource/Img/exposição.jpg') center center fixed;
+    background: url('resource/img/exposição.jpg') center center fixed;
     background-size: cover;
 }
 
