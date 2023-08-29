@@ -198,11 +198,12 @@ footer .menu{
 
 @media (max-width: 760px){
     footer .menu{
-        width: auto;
+        width: 80%;
+        justify-content: space-between;
     }
     
     .item-footer{
         padding: 5px;
-        margin: 0 20px;
+        margin: 0;
     }
 }
