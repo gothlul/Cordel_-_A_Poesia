@@ -198,7 +198,7 @@ footer .menu{
 
 @media (max-width: 760px){
     footer .menu{
-        width: 80%;
+        width: 75%;
         justify-content: space-between;
     }
     
